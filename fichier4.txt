@@ -1,1 +1,2 @@
 Voici la nouvelle modification de la branche nouvelle fonctionnalite
+new modification on hotfix/correction-bug branch
